@@ -8,6 +8,6 @@
 ## Descripcion
 **Sales Api** es una aplicacion backend desarrollada con **Spring boot**, para un sistema de ventas, diseñana bajo los principios de **Domain-Driven Desing (DDD)**
 
-##Contexto Academico
+## Contexto Academico
 Este proyecto se utiliza como **caso de estudio y proyecto practico**, permitiendo al estudiante:
 - Aplicar **DDD y arquitectura en capas**
